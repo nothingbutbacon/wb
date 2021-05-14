@@ -1,3 +1,6 @@
+# token file should never be uploaded
+token.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
